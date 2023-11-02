@@ -1,0 +1,39 @@
+*{
+    background-image: "/public/107 images/backgroundimage/bakgound.jpg";
+}
+.about{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+    background-color: beige;
+    
+}
+.parent h3{
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+    color: gold;
+}
+h1{
+    color: black;
+
+    font-size: 55px;
+    padding-top: -40%;
+}
+h3{
+    font-style: italic;
+    font-size: 33px;
+
+
+}
+
+
+
+.parent p{
+    font-size: 18px;
+    font-weight: 700;
+   color: rgb(247, 235, 70) .3;
+}
+

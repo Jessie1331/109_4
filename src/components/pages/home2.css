@@ -1,0 +1,10 @@
+.home2
+h1{
+    font-size: 33px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    color: rgb(243, 243, 241);
+    text-align: center;
+    float: center;
+    background-color: black;
+}
